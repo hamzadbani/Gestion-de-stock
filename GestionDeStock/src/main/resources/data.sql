@@ -1,0 +1,10 @@
+INSERT INTO categorie  VALUES (1, 'alimentation');
+INSERT INTO categorie  VALUES (2, 'nettoyage');
+INSERT INTO article VALUES (1, 'pain',12.13,1);
+INSERT INTO article VALUES (2, 'lait',14.76,1);
+INSERT INTO article VALUES (3, 'huile',16.10,1);
+INSERT INTO article VALUES (4, 'savon',19,2);
+INSERT INTO article VALUES (5, 'Bactéricides',27,2);
+INSERT INTO article VALUES (6, 'Germicides',30,2);
+INSERT INTO article VALUES (7, 'Germicides',30,2);
+INSERT INTO article VALUES (8, 'Germicides',30,2);
